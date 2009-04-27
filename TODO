@@ -1,0 +1,5 @@
+- tests with databases (MySQL, SQLite)
+- quote also tablename?
+- do the quotes harm other databases?
+
+- tests: Test::Warn and Test::Exception
